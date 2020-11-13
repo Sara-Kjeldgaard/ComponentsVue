@@ -1,3 +1,3 @@
-#How to make components with Vue
+# How to make components with Vue
 
 vue-simple-demo
