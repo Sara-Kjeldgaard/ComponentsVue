@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+main {
+    min-height: calc(100vh - 220px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main img {
+    width: 220px;
+    height: auto;
+    margin-right: 120px;
+}
+
+#ipsumText {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+}

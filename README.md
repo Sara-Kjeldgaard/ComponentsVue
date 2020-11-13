@@ -1,1 +1,1 @@
-ComponentsVue
+vue-simple-demo

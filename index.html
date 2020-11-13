@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="">
+    <head>
+        <meta charset="utf-8" />
+        <title>Components</title>
+        <meta name="author" content="Sara Skovbjerg Kjeldgaard" />
+        <meta name="description" content="Components examples" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="css/style.css" />
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap" rel="stylesheet">
+
+        <!--    Her loades vue     -->
+        <script src="https://unpkg.com/vue"></script>
+
+        <!--    Her loades værktøjet til at loade vue filer (hvor vores komponenter laves)    -->
+        <script src="https://unpkg.com/http-vue-loader"></script>
+    </head>
+
+    <body>
+        <div id="app">
+            <custom-header></custom-header>
+            <main>
+                <img src="/images/avatar.png"/>
+                <div id="ipsumText">
+                <h1>Lorem Ipsum</h1>
+                <p>Meow for food, then when human fills food dish, take a few bites of food and continue meowing wake up wander around the house making large amounts of noise jump on top of your human's bed and fall asleep again ignore the squirrels, you'll never catch them anyway lie in the sink all day</p>
+                <p>Meow and walk away purr while eating, intrigued by the shower bite the neighbor's bratty kid hide from vacuum cleaner massacre a bird in the living room and then look like the cutest and most innocent animal on the planet i show my fluffy belly but it's a trap! if you pet it i will tear up your hand. </p>
+                </div>
+            </main>
+            <custom-footer></custom-footer>
+        </div>
+        <!--    Her loades java script dokumentet    -->
+        <script type="text/javascript" src="js/js.js"></script>
+    </body>
+</html>
