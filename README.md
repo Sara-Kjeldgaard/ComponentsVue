@@ -8,7 +8,7 @@ This repo is all about leaning how to work with components in Vue.
 * One of the most known frameworks in the world
 * A tool to build components Bruges til at bygge komponenterne
 
-If you want to know more about Vue - follow this link: [vuejs] (https://vuejs.org/v2/guide/index.html)
+If you want to know more about Vue - follow this link: [vuejs](https://vuejs.org/v2/guide/index.html)
 
 ## Components
 
